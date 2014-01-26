@@ -118,13 +118,11 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Detail.Text" xml:space="preserve">
-    <value>All of us at Nexeon Technologies, Duplex Systems and the volunteer staff for Face of Mankind greatly appreciate your generosity with supporting our new expansion, Fall of the Dominion.  This new chapter would not have been possible without your pledge during our Kickstarter campaign.
+    <value>Thank you for your interest in the Face of Mankind: Fall of the Dominion closed beta.  Currently, the closed beta is limited to individuals who contributed during our kickstarter campaign.
 
-Closed beta begins on January 3rd 2014.  At this point, you’ve installed the major assets of the game such as artwork, textures, sounds and maps.  On January 3rd, launch Face of Mankind: Fall of the Dominion from the icon on your desktop.  A few last-minute files will be downloaded and patched then you’ll be on your way to creating a character and joining your fellow Kickstarter backers.
+Follow our forums at http://forum.faceofmankind.com for an announcement about when the open beta will start.
 
-In the mean time, we invite you to keep up-to-date with our progress on the forums.
-
-Thank you again for your support and we look forward to seeing you in our new game on January 3rd, 2014.</value>
+If you are a kickstarter supporter and are seeing this message, please send a private message to our community manager, [CM] Frost, via the forums to have your account activated.</value>
   </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="$this.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">

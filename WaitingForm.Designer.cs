@@ -78,7 +78,7 @@
             this.Detail.BackColor = System.Drawing.Color.BlanchedAlmond;
             this.Detail.Location = new System.Drawing.Point(149, 147);
             this.Detail.Name = "Detail";
-            this.Detail.Size = new System.Drawing.Size(427, 204);
+            this.Detail.Size = new System.Drawing.Size(427, 136);
             this.Detail.TabIndex = 3;
             this.Detail.Text = resources.GetString("Detail.Text");
             // 

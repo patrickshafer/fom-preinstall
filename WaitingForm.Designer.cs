@@ -52,11 +52,11 @@
             this.fodWaiting.BackColor = System.Drawing.Color.Transparent;
             this.fodWaiting.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.fodWaiting.ForeColor = System.Drawing.Color.Silver;
-            this.fodWaiting.Location = new System.Drawing.Point(192, 70);
+            this.fodWaiting.Location = new System.Drawing.Point(204, 71);
             this.fodWaiting.Name = "fodWaiting";
-            this.fodWaiting.Size = new System.Drawing.Size(268, 26);
+            this.fodWaiting.Size = new System.Drawing.Size(214, 26);
             this.fodWaiting.TabIndex = 1;
-            this.fodWaiting.Text = "Welcome, Kickstarter backers!";
+            this.fodWaiting.Text = "Welcome to Open Beta";
             // 
             // BtnExit
             // 
@@ -76,9 +76,9 @@
             // Detail
             // 
             this.Detail.BackColor = System.Drawing.Color.BlanchedAlmond;
-            this.Detail.Location = new System.Drawing.Point(149, 147);
+            this.Detail.Location = new System.Drawing.Point(162, 216);
             this.Detail.Name = "Detail";
-            this.Detail.Size = new System.Drawing.Size(427, 136);
+            this.Detail.Size = new System.Drawing.Size(427, 125);
             this.Detail.TabIndex = 3;
             this.Detail.Text = resources.GetString("Detail.Text");
             // 

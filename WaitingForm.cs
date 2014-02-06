@@ -25,10 +25,19 @@ namespace fom_waiting
 
         private void WaitingForm_Load(object sender, EventArgs e)
         {
-            if (System.IO.File.Exists(@"Resources\Music\Tokyo\Enter.wav"))
+            string[] SoundList = {
+                                     @"Resources\Music\Tokyo\Enter.wav",
+                                     @"Resources\Music\Tokyo\Enter2.wav",
+                                     @"Resources\Music\Paris\Enter.wav",
+                                     @"Resources\Music\Menu\Standard.wav"
+                                 };
+            string SelectedSound = SoundList[new Random().Next(SoundList.Length)];
+
+
+            if (System.IO.File.Exists(SelectedSound))
             {
                 MP3Player player = new MP3Player();
-                player.Open(@"Resources\Music\Tokyo\Enter.wav");
+                player.Open(SelectedSound);
                 player.Play(false);
             }
         }
